@@ -1,0 +1,27 @@
+[
+    {
+        "domain": "www.bing.com",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "BCP",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "AD=0&AL=0&SM=0"
+    },
+    {
+        "domain": "www.bing.com",
+        "expirationDate": 1702746227,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ISSW",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    }
+]
